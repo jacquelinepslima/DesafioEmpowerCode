@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    background-image: linear-gradient(90deg,  rgb(139, 2, 130), rgb(247, 204, 204));
+    font-family: 'Inter', sans-serif;
+    line-height: 1.3;
+    position: relative;
+}
